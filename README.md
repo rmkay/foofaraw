@@ -1,4 +1,4 @@
 foofaraw
 ========
 
-"a great fuss or disturbance about something very insignificant"
+"A great fuss or disturbance about something very insignificant"
